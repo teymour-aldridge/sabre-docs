@@ -2,7 +2,7 @@
 
 ### Basic usage
 ##### Regular buttons
-Regular buttons can be created using the `.button-<button-size>` class.
+Regular buttons can be created using the `.button-<a number from 1 to 8>` class. Bigger numbers mean more padding.
 
 **Example 1**
 ```html
@@ -29,3 +29,5 @@ Multicoloured buttons can be created using the `.button-<button colour>-<button-
 <!-- A large orange button -->
 <button class="button-orange-8"></button>
 ```
+##### Rounded buttons
+Add the class `.border-radius-<a number from 1 to 8>`. Bigger numbers mean a bigger radius.
