@@ -16,4 +16,4 @@ The file is also not automatically minified so it is slower to load.
 ### Hosting Sabre yourself.
 You can <a href="https://cdn.jsdelivr.net/gh/teymour-aldridge/sabre/sass/styles.min.css">download sabre.min.css</a> and host it yourself.
 ### Customising
-Sabre is written in SCSS, making it easily customisable using variable overrides. For more details see [the documentation page](getting-started/customisation.md).
+Sabre is written in SCSS, making it easily customisable using variable overrides. For more details see [the documentation page](/getting-started/customisation.md).
