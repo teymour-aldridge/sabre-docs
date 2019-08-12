@@ -3,4 +3,7 @@ theme:
   name: 'material'
 nav:
   - Home: index.md
+  - Getting started: quickstart/installation.md
+  - Components:
+      - 'Buttons': 'components/buttons.md'
 google_analytics: ['UA-145439139-1', 'sabrecss.netlify.com']
