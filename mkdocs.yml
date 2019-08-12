@@ -9,3 +9,5 @@ nav:
   - Components:
       - 'Buttons': 'components/buttons.md'
 google_analytics: ['UA-145439139-1', 'sabrecss.netlify.com']
+markdown_extensions:
+  - codehilite
