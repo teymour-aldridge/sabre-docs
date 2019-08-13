@@ -41,5 +41,5 @@ $primary: $hotpink;
 @import "./sass/typography/typography";
 @import "./sass/forms/forms";
 ```
-This works by the default SCSS variables which are set in `sass/base/variables.scss` with custom ones before importing the rest of Sabre.
+This works by first importing the default SCSS variables which are set in `sass/base/variables.scss` and overriding them with custom ones before importing the rest of Sabre.
 There are many different variables you can change.

@@ -8,6 +8,7 @@ nav:
     - 'Customisation': 'getting-started/customisation.md'
   - Components:
       - 'Buttons': 'components/buttons.md'
+      - 'Headers': 'components/header.md'
 google_analytics: ['UA-145439139-1', 'sabrecss.netlify.com']
 markdown_extensions:
   - codehilite
