@@ -11,6 +11,8 @@ nav:
       - 'Headers': 'components/header.md'
   - Layout:
       - 'Columns': 'layout/columns.md'
+  - Forms:
+      - 'Overview': 'forms/overview.md'
 google_analytics: ['UA-145439139-1', 'sabrecss.netlify.com']
 markdown_extensions:
   - codehilite
