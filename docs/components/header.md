@@ -1,5 +1,4 @@
-# Header
-**Sits, impressively, at the top of the page.**
+# Headers
 ### Basic usage
 A header is created using the `.header` class. 
 ```html

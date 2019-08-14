@@ -9,6 +9,8 @@ nav:
   - Components:
       - 'Buttons': 'components/buttons.md'
       - 'Headers': 'components/header.md'
+  - Layout:
+      - 'Columns': 'layout/columns.md'
 google_analytics: ['UA-145439139-1', 'sabrecss.netlify.com']
 markdown_extensions:
   - codehilite
