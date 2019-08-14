@@ -19,6 +19,7 @@ All form items use the `field` class.
 Styling for the following input types are available.
 * Text inputs – with the `.input-text` class
 * Password inputs - with the `.input-password` class
-* Submit buttons – with the [button component](/components/buttons.md).
+* Submit buttons – with the [button component](/components/buttons.md)
+* Textarea – with the .textarea class
 ### Variables
 None at the moment. 
